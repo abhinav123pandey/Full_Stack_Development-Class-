@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+}
+table tr td{
+    height:90px;
+    width:90px;
+}
+.black{
+    background-color: rgb(76, 159, 91);
+}
+.white{
+    background-color: rgb(255, 255, 255);
+}
